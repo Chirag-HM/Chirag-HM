@@ -87,10 +87,10 @@ Build impactful projects that solve real-world problems.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chirag-HM&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://raw.githubusercontent.com/Chirag-HM/Chirag-HM/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
