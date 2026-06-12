@@ -18,7 +18,7 @@ steps:
     with:
       github_user_name: Chirag-HM
       outputs: |
-        dist/github-snake-dark.svg?palette=github-dark&color_snake=%238A2BE2&color_dots=%23ffffff,%23ffffff,%23d9d9d9,%23bfbfbf,%23999999
+        dist/github-snake-dark.svg?palette=github-dark&color_snake=%238A2BE2
 
   - uses: crazy-max/ghaction-github-pages@v4
     with:
